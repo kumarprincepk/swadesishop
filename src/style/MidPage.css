@@ -1,0 +1,64 @@
+
+.mainpg{
+    padding: 40px 210px 100px 210px;
+    z-index: -10;
+}
+.heading{
+    padding: 15px 0px;
+    border-bottom: 2px solid #333;
+}
+.heading > h2{
+    font-size: 25px;
+    font-family: 'Outfit', sans-serif;
+    color: rgb(33, 33, 33);
+    text-transform: uppercase;
+    line-height: 1.2;
+}
+.heading > span{
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Outfit', sans-serif;
+    color: rgb(25, 25, 25);
+    line-height: 1.8;
+}
+.fa-plus{
+    font-weight: 900;
+
+}
+.add1{
+    display: flex;
+    max-width: 100%;
+    margin-bottom: 15px;
+    margin-left: 0;
+    padding: 10px 15px;
+    border-bottom: 2px solid;
+}
+.inradio{
+    padding-left: 28px;
+    cursor: pointer;
+    line-height: 0px;
+    display: inline-block;
+    transform: translateY(46%);
+    
+}
+.inradio>input{
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+.addtext{
+    display: inline-block;
+    margin-left: 50px;
+}
+.addtext>h5{
+    font-size: 21px;
+    font-family: 'Outfit', sans-serif;
+    color: rgb(66, 66, 66);
+    line-height: 1.875;
+}
+.addtext>p{
+    font-size: 17px;
+    font-family: 'Outfit', sans-serif;
+    color: rgb(66, 66, 66);
+    line-height: 2.045;
+}

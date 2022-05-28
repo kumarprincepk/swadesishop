@@ -1,0 +1,102 @@
+
+
+.footer__top__container{
+    display: flex;
+    width: 90vw;
+    margin:auto;
+    align-items:center;
+}
+.footer__top__container>hr{
+    flex:0.4;
+    color:black;
+    border:.1rem solid black;
+    background-color: black;
+}
+.footer__top__container>img{
+    flex:0.2;
+    padding:4rem;
+}
+.footer__second__container{
+    width:90vw;
+    margin:auto;
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.footer__second__container>div{
+    text-align: center;
+}
+.footer__second__container h2{
+    font-weight:200;
+    color:#333;
+}
+.footer__second__container>div:nth-child(2){
+    font-size:1.9rem;
+    display:flex;
+    width:25rem;
+    justify-content:space-around;
+    color:grey;
+}
+.footer__icons:hover{
+    color:#333;
+    transition:all 0.2s ease-in-out;
+}
+.footer__bottom__container{
+    width:60rem;
+    margin:auto;
+    text-align: center;
+}
+.footer__bottom__container h4{
+    font-weight:400;
+    font-size: 2rem;
+}
+.input__container__footer{
+    display:flex;
+    justify-content:space-between;
+    border-bottom:.1rem solid #333;
+    position: relative;
+    text-align: center;
+    font-size: 19px;
+    font-family: 'Outfit', sans-serif;
+    color: rgb(40, 40, 40);
+    line-height: 1.667;
+}
+.input__container__footer>input{
+    border:none;
+    outline:none;
+    width:100%;
+}
+.footer__vertical{
+    height:10rem;
+    width:0rem;
+    background-color:#333;
+    border:.1rem solid #333;
+    margin:auto;
+}
+
+
+.sellon{
+    padding: 15px 60px 10px 60px;
+    font-family: 'Outfit', sans-serif;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.8;
+    border-radius: 8px;
+    outline: 0;
+    background-color: rgb(27, 27, 27);
+    -webkit-transition: all 400ms linear;
+    transition: all 400ms linear;
+}
+.sellon:hover{
+    background-color: #fff;
+    color: rgb(27, 27, 27);
+    border: 1px solid #333;
+}
+.para{
+    position: relative;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Outfit', sans-serif;
+    color: rgb(40, 40, 40);
+    line-height: 1.667;
+}

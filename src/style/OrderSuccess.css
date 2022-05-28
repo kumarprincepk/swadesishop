@@ -1,0 +1,113 @@
+.all{
+    padding: 60px 15rem 0px 15rem;
+}
+.first{
+    padding: 20px 0px;
+    border-bottom: 2px solid #8c8c8c;
+}
+.first>h2{
+    font-size: 25px;
+    font-family: 'Outfit', sans-serif;
+    color: rgb(33, 33, 33);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 2;
+    font-weight: 600;
+}
+.first>p{
+    font-size: 20px;
+    font-family: 'Outfit', sans-serif;
+    color: rgb(33, 33, 33);
+    line-height: 1.5;
+    text-align: center;
+    padding: 0px 0px 30px 0px;
+}
+.ordet{
+    padding: 20px 0px;
+    border-bottom: 2px solid #8c8c8c;
+}
+.ordet>h4{
+    display: inline-block;
+    font-size: 21px;
+    font-family: 'Outfit', sans-serif;
+    color: rgb(33, 33, 33);
+    line-height: 1.376;
+    margin: 0;
+    font-weight: 600;
+}
+.allboxitem{
+    padding: 0px 0px 35px 0px;
+    /* border-bottom: 2px solid #8c8c8c; */
+}
+.p{
+    padding: 1px 0px 20px 0px;
+    border-bottom: 2px solid #8c8c8c;
+}
+.payme{
+    display: inline-block;
+    font-size: 21px;
+    font-family: 'Outfit', sans-serif;
+    color: rgb(33, 33, 33);
+    line-height: 1.376;
+    margin: 0;
+}
+.carenwi{
+    margin: 20px 0px 0px 0px;
+    font-size: 18px;
+    font-family: ;
+    color: rgb(33, 33, 33);
+    text-transform: uppercase;
+    line-height: 2.0;
+    padding: 0px 0px 7px 0px;
+    border-bottom: 2px solid #8c8c8c;
+}
+.deliadd>h4{
+    display: inline-block;
+    font-size: 21px;
+    font-family: 'Outfit', sans-serif;
+    color: rgb(33, 33, 33);
+    line-height: 1.376;
+    margin: 0;
+}
+.deliadd{
+    padding: 20px 0px 20px 0px;
+    border-bottom: 2px solid #8c8c8c;
+}
+.jhodoe{
+    padding: 20px 0px 20px 0px;
+    border-bottom: 2px solid #8c8c8c;
+    margin-bottom: 70px;
+}
+
+.one>h4{
+    display: inline-block;
+    font-size: 21px;
+    font-family: 'Outfit', sans-serif;
+    color: rgb(33, 33, 33);
+    line-height: 1.376;
+    margin: 0;
+}
+.one>p{
+    font-size: 17px;
+    font-family: 'Outfit', sans-serif;
+    color: rgb(66, 66, 66);
+    line-height: 2.045;
+    margin: 0;
+    text-transform: initial;
+}
+.two>h4{
+    display: inline-block;
+    font-size: 21px;
+    font-family: 'Outfit', sans-serif;
+    color: rgb(33, 33, 33);
+    line-height: 1.376;
+    margin: 0;
+}
+.two>p{
+    font-size: 17px;
+    font-family: 'Outfit', sans-serif;
+    color: rgb(66, 66, 66);
+    line-height: 2.045;
+    margin: 0;
+    text-transform: initial;
+}
